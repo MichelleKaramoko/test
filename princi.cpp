@@ -19,7 +19,7 @@ using namespace std;
 int main()
 
 {
-	string numerotel;
+	string numerol;
 	char buffer[256];
 	cout << "entrer un numero de telephone" << endl;
 	cin.getline(buffer, 255);
