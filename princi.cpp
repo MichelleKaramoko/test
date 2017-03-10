@@ -37,6 +37,7 @@ int main()
 	char buffer3[256];
 	cout << "entrer un nom" << endl;
 	cin.getline(buffer3, 255);
+
 	nom = buffer3;
 
 	string prenom;
